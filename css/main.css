@@ -42,6 +42,6 @@ html {
   }
 }
 
-.hour-hand {
+.hand-hour {
   animation: hand-rotate 6s linear infinite;
 }
